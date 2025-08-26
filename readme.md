@@ -75,6 +75,6 @@ uvicorn app:app --reload
 ### 6.برای جستجو 
 http://127.0.0.1:8000/search?query= query text
 
-عبارت مورد نظر را جایگزین query textکنید
-مثلا
+عبارت مورد نظر را جایگزین query textکنید مثلا 
+
 http://127.0.0.1:8000/search?query=security
