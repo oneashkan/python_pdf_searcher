@@ -49,7 +49,7 @@ pdf_searcher/
 
 ### 1. کلون یا دانلود پروژه
 ```bash
-git clone https://github.com/oneasshkan/pdf-searcher.git
+git clone https://github.com/oneashkan/python_pdf_searcher
 cd pdf-searcher
 ```
 
